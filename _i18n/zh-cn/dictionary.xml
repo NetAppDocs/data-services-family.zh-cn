@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="dc245a85dae84d483e92d2f226c67bac" category="sidebar">通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。</block>
+  <block id="6d8ade1ea0a12d4d38bba059fd313d03" category="sidebar">通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。</block>
+  <block id="2561e39e43a752f0567c60e0365aaeca" category="sidebar">NetApp数据服务</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">移动性</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保护</block>
+  <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">治理</block>
+  <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">存储管理</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作负载</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
+  <block id="05cf0475696b52e14d5e336abd75e9b1" category="sidebar">了解NetApp控制台和NetApp数据服务的新功能。</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">NetApp控制台</block>
+  <block id="208ff7b86672b0ac4d3e5a8ce33777fa" category="sidebar">使用NetApp控制台来管理身份和访问管理、部署代理等。</block>
+  <block id="debcc13f2e22ebe799f1da0f4ac199b7" category="sidebar">通过NetApp Console 管理您的存储系统。</block>
+  <block id="f05ea9e0c9ccffc58a546b5b7a0d8608" category="sidebar">备份和恢复</block>
+  <block id="feca2eea422c4aa772243f0d93ce930e" category="sidebar">保护和恢复本地和云端的ONTAP数据、Kubernetes 卷等。</block>
+  <block id="6fe4264e25ab7d4538e3cd8b851adfcf" category="sidebar">复制和同步</block>
+  <block id="85e6da6f1653b3a3805e8a6cad145fd3" category="sidebar">通过智能、统一的解决方案简化跨各种存储类型的大数据传输。</block>
+  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">云层</block>
+  <block id="ed02a33f22ba9e6d0f81569d5fd9af2d" category="sidebar">通过自动将冷数据移动到低成本的对象存储来实现持续可用的容量。</block>
+  <block id="604880f6f585767eee17ec85b3c76533" category="sidebar">数据分类</block>
+  <block id="5bf57200dbf9205bc513b6082c4824fd" category="sidebar">扫描和分类数据以实现增强的治理、效率和隐私。</block>
+  <block id="e413eba49b15917b0c9dbf2620f3e66e" category="sidebar">灾难恢复</block>
+  <block id="503eabfbc1bc21c0b9830eb485cbcb83" category="sidebar">为您的 VMware 工作负载执行完整的灾难保护解决方案。</block>
+  <block id="c36b12344113082dcf8a9786e36a3536" category="sidebar">勒索软件抵御能力</block>
+  <block id="b32156e7fd790389d85954001497e4ba" category="sidebar">在存储层实施强大的勒索软件防御，以保护数据并自动化工作流程。</block>
+  <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">复制</block>
+  <block id="259adf187c730c8572ec5395ced47b12" category="sidebar">复制数据以进行备份、灾难恢复以及本地和云ONTAP系统之间的迁移。</block>
+  <block id="082a2f81a104214877c2e8d8e3c568c0" category="sidebar">卷缓存</block>
+  <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">创建可写的缓存卷以加快数据访问速度或卸载访问量大的卷的流量。</block>
+  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">自动化 FSx for ONTAP的配置、治理和生命周期。探索节约成本和先进管理。</block>
+  <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">复制和同步</block>
+</blocks>
