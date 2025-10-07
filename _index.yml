@@ -45,7 +45,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: 云层
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: 通过自动将冷数据移动到低成本的对象存储来实现持续可用的容量。
     tags: all,aws,azure,gcp,mobility
   - title: 数据分类
@@ -70,7 +70,7 @@ product-family:
     tags: all,mobility
   - title: 卷缓存
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: 创建可写的缓存卷以加快数据访问速度或卸载访问量大的卷的流量。
     tags: all,mobility
   - title: 工作负载

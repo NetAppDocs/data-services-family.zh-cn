@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="dc245a85dae84d483e92d2f226c67bac" category="sidebar">通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。</block>
-  <block id="6d8ade1ea0a12d4d38bba059fd313d03" category="sidebar">通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。</block>
   <block id="2561e39e43a752f0567c60e0365aaeca" category="sidebar">NetApp数据服务</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">移动性</block>
@@ -32,4 +31,5 @@
   <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">创建可写的缓存卷以加快数据访问速度或卸载访问量大的卷的流量。</block>
   <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">自动化 FSx for ONTAP的配置、治理和生命周期。探索节约成本和先进管理。</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">复制和同步</block>
+  <block id="d53dec209f16f19a3b77bfb2774f6792" category="sidebar">通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。</block>
 </blocks>
