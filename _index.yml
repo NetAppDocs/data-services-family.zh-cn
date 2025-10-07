@@ -50,7 +50,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: 数据分类
     icon: "./media/icon-data-sense.png"
-    url: "../data-services-classification/index.html"
+    url: "../data-services-data-classification/index.html"
     summary: 扫描和分类数据以实现增强的治理、效率和隐私。
     tags: all,governance,aws,azure,gcp
   - title: 灾难恢复
@@ -60,7 +60,7 @@ product-family:
     summary: 为您的 VMware 工作负载执行完整的灾难保护解决方案。
   - title: 勒索软件抵御能力
     icon: "./media/icon-ransomware.png"
-    url: "../data-services-ransomware-protection/index.html"
+    url: "../data-services-ransomware-resilience/index.html"
     summary: 在存储层实施强大的勒索软件防御，以保护数据并自动化工作流程。
     tags: all,protection
   - title: 复制
