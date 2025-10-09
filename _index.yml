@@ -1,7 +1,7 @@
 ---
 product-family:
   title: NetApp数据服务
-  lead: 通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。
+  lead: 通过NetApp Console访问NetApp数据服务，以保护您的数据基础架构。
   summary: 通过NetApp控制台访问NetApp数据服务，以保护您的数据基础架构。
   sidebarlinks:
   - title: 全部
@@ -13,7 +13,7 @@ product-family:
     tags: protection
   - title: 治理
     tags: governance
-  - title: NetApp控制台
+  - title: NetApp Console
     tags: console
   - title: 存储管理
     tags: storage-management
@@ -23,17 +23,17 @@ product-family:
   - title: 发行说明
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: 了解NetApp控制台和NetApp数据服务的新功能。
+    summary: 了解NetApp Console和NetApp Data Services的新功能。
     tags: all
-  - title: NetApp控制台
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: 使用NetApp控制台来管理身份和访问管理、部署代理等。
+    summary: 使用NetApp Console来管理身份和访问管理、部署代理等。
     tags: all,console
   - title: 存储管理
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
-    summary: 通过NetApp Console 管理您的存储系统。
+    summary: 通过NetApp Console管理您的存储系统。
     tags: storage-management
   - title: 备份和恢复
     icon: "./media/icon-backup.png"
