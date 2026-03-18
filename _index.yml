@@ -18,7 +18,7 @@ product-family:
   - title: 存储管理
     tags: storage-management
   - title: 工作负载
-    tags: migrations
+    tags: workloads
   tiles:
   - title: 发行说明
     icon: "./media/icon-docs.png"
@@ -34,7 +34,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
     summary: 通过NetApp Console管理您的存储系统。
-    tags: storage-management
+    tags: all, storage-management
   - title: 备份和恢复
     icon: "./media/icon-backup.png"
     url: "../data-services-backup-recovery/index.html"
