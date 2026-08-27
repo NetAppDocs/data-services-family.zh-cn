@@ -17,6 +17,8 @@ product-family:
     tags: console
   - title: 存储管理
     tags: storage-management
+  - title: 工作负载
+    tags: workloads
   tiles:
   - title: 发行说明
     icon: "./media/icon-docs.png"
@@ -73,3 +75,8 @@ product-family:
     url: "../console-volume-caching/index.html"
     summary: 创建可写的缓存卷以加快数据访问速度或卸载访问量大的卷的流量。
     tags: all,mobility
+  - title: 工作负载
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: 自动化 FSx for ONTAP的配置、治理和生命周期。探索节约成本和先进管理。
+    tags: all,workloads
