@@ -1,7 +1,6 @@
 ---
 settings:
   name: NetApp data services
-  platform: cloud
   search: console-alerts, storage-management-s3-storage, console-automation, storage-management-azure-netapp-files,
     data-services-backup-recovery, storage-management-blob-storage, data-services-data-classification,
     storage-management-cloud-volumes-ontap, storage-management-google-cloud-netapp-volumes,
