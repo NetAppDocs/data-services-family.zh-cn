@@ -10,7 +10,7 @@ settings:
     data-services-ransomware-resilience, console-relnotes,data-services-replication,
     console-setup-admin, console-software-updates, storage-management-storagegrid,
     data-services-cloud-tiering, console-volume-caching, workload-setup-admin, workload-fsx-ontap,
-    workload-databases, workload-vmware, workload-eda, keystone-staas
+    workload-databases, workload-vmware, workload-eda, keystone-staas, data-services-workloads
   internal:
     pdf_enabled: false
     lipi_enabled: true

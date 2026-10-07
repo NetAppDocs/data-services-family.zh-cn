@@ -29,6 +29,7 @@
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">复制</block>
   <block id="259adf187c730c8572ec5395ced47b12" category="sidebar">复制数据以进行备份、灾难恢复以及本地和云ONTAP系统之间的迁移。</block>
   <block id="082a2f81a104214877c2e8d8e3c568c0" category="sidebar">卷缓存</block>
-  <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">创建可写的缓存卷以加快数据访问速度或卸载访问量大的卷的流量。</block>
-  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">自动化 FSx for ONTAP的配置、治理和生命周期。探索节约成本和先进管理。</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">创建可写缓存卷，以加快对数据的访问或从高访问量卷中卸载流量。</block>
+  <block id="22e5a7336ebe77138f0282cedcb069ab" category="sidebar">Workload Factory</block>
+  <block id="99af4e7b7cb3dc5451ee2b26742e828a" category="sidebar">管理在 Amazon FSx for NetApp ONTAP、Google Cloud NetApp Volumes 和 Oracle Cloud Infrastructure NetApp Storage Service 上运行的工作负载。</block>
 </blocks>
